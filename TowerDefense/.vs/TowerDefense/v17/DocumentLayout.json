@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\WaveSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WaveSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\Turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\ShopManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ShopManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\SceneFader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SceneFader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\RoundsSurvived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\RoundsSurvived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\Plataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Plataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\LevelSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LevelSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\BuildManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BuildManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Menu\\option_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Menu\\option_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\Waypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Waypoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Menu\\MainMenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Menu\\MainMenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\QuestionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\QuestionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WaveSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\WaveSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveSpawner.cs",
+              "ToolTip": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\WaveSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveSpawner.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAADwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:55:39.549Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAGAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:27:52.516Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\ShopManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShopManager.cs",
+              "ToolTip": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\ShopManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShopManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:36:15.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Turret.cs",
+              "DocumentMoniker": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\Turret.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Turret.cs",
+              "ToolTip": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\Turret.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Turret.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:05:59.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SceneFader.cs",
+              "DocumentMoniker": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\SceneFader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneFader.cs",
+              "ToolTip": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\SceneFader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneFader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:36:12.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoundsSurvived.cs",
+              "DocumentMoniker": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\RoundsSurvived.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RoundsSurvived.cs",
+              "ToolTip": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\RoundsSurvived.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RoundsSurvived.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:36:08.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T18:28:58.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LevelSelector.cs",
+              "DocumentMoniker": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\LevelSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelSelector.cs",
+              "ToolTip": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\LevelSelector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelSelector.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T13:06:35.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Plataforma.cs",
+              "DocumentMoniker": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\Plataforma.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Plataforma.cs",
+              "ToolTip": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\Plataforma.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Plataforma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T21:30:42.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:34:40.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BuildManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\BuildManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildManager.cs",
+              "ToolTip": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\BuildManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuildManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T01:33:30.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:09:28.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "option_game.cs",
+              "DocumentMoniker": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Menu\\option_game.cs",
+              "RelativeDocumentMoniker": "Assets\\Menu\\option_game.cs",
+              "ToolTip": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Menu\\option_game.cs",
+              "RelativeToolTip": "Assets\\Menu\\option_game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T18:19:57.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Waypoints.cs",
+              "DocumentMoniker": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\Waypoints.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Waypoints.cs",
+              "ToolTip": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\Waypoints.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Waypoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:27:16.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Menu\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Menu\\MainMenuManager.cs",
+              "ToolTip": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Menu\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\Menu\\MainMenuManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T20:56:24.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuestionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\QuestionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuestionManager.cs",
+              "ToolTip": "C:\\Users\\Lotus\\Desktop\\lab.game\\py\\TowerDefense\\Assets\\Scripts\\QuestionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuestionManager.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:53:14.047Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
